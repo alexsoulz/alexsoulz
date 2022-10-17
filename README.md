@@ -1,6 +1,10 @@
 ## Olá!🐌
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsoulz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoulz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/alexsoulz">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=alexsoulz&show_icons=true&theme=radical"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoulz&layout=compact&theme=radical"/>
+</div>
+
 ## ⚙️ Conhecimentos
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
