@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/alexsoulz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=alexsoulz&show_icons=true&theme=radical"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoulz&layout=compact&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alexsoulz&show_icons=true&theme=radical"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoulz&layout=compact&theme=radical"/>
 </div>
 
 ## ⚙️ Conhecimentos
